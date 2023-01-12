@@ -15,7 +15,7 @@ create table question_answer
     constraint question_answer_id_uindex
         unique (id)
 )
-你可以通过以下命令启动它：
+### 你可以通过以下命令启动它：
 ### npm install
 ### npm run dev 或 npm run estart
 打包
